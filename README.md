@@ -18,3 +18,22 @@
   <a href="https://www.linkedin.com/in/isaac-cauã-vicente-cardoso-741519265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaaccaua26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaccaua26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">🔥   Meu Status</h2>
+
+###
+
+<img align="right" height="260" src="https://img1.picmix.com/output/stamp/normal/7/6/3/6/2496367_4460b.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=isaaccaua26&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
